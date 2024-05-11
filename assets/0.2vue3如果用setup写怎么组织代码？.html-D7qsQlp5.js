@@ -1,4 +1,4 @@
-import{_ as e}from"./plugin-vue_export-helper-DlAUqK2U.js";import{o as t,c as n,b as a}from"./app-DXHnLABm.js";const s={},o=a(`<h1 id="_02-vue3如果用setup写怎么组织代码" tabindex="-1"><a class="header-anchor" href="#_02-vue3如果用setup写怎么组织代码"><span>02-vue3如果用setup写怎么组织代码？</span></a></h1><div class="language-markdown line-numbers-mode" data-ext="md" data-title="md"><pre class="language-markdown"><code>说明：hooks（就是函数式），主要让功能模块细分,（提升项目的维护性）
+import{_ as e}from"./plugin-vue_export-helper-DlAUqK2U.js";import{o as t,c as n,b as a}from"./app-BDljxT1g.js";const s={},o=a(`<h1 id="_02-vue3如果用setup写怎么组织代码" tabindex="-1"><a class="header-anchor" href="#_02-vue3如果用setup写怎么组织代码"><span>02-vue3如果用setup写怎么组织代码？</span></a></h1><div class="language-markdown line-numbers-mode" data-ext="md" data-title="md"><pre class="language-markdown"><code>说明：hooks（就是函数式），主要让功能模块细分,（提升项目的维护性）
 
 <span class="token code keyword">		解决问题：&lt;script setup&gt;
 					//代码==》比较乱
