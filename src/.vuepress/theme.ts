@@ -33,6 +33,15 @@ export default hopeTheme({
   // hotReload: true,
   // 在这里配置主题提供的插件
   editLink: false,
+  pageInfo: [
+    "Author",
+    "Original",
+    "Date",
+    "Category",
+    "ReadingTime",
+    "Word",
+    "PageView",
+  ],
   plugins: {
     components: {
       components: ["Badge", "VPCard"],
@@ -50,6 +59,7 @@ export default hopeTheme({
     },
     seo: {
       autoDescription: true,
+      canonical: "https://mengblog.cn",
     },
     sitemap: true,
     comment: {
@@ -59,6 +69,9 @@ export default hopeTheme({
       repoId: "R_kgDOL4xPzA", // 替换下
       category: "Announcements",
       categoryId: "DIC_kwDOL4xPzM4CfSXA", // 替换下
+    },
+    git: {
+      contributors: true,
     },
     // 此处开启了很多功能用于演示，你应仅保留用到的功能。
     mdEnhance: {
