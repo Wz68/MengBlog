@@ -1,4 +1,4 @@
-import{_ as n}from"./plugin-vue_export-helper-DlAUqK2U.js";import{o as e,c as t,b as i}from"./app-BOBtCxwd.js";const s={},a=i(`<h1 id="_04-vue3常用api有哪些" tabindex="-1"><a class="header-anchor" href="#_04-vue3常用api有哪些"><span>04-vue3常用api有哪些？</span></a></h1><div class="language-markdown line-numbers-mode" data-ext="md" data-title="md"><pre class="language-markdown"><code><span class="token list punctuation">1.</span> createApp() ==》 创建一个应用实例。
+import{_ as n}from"./plugin-vue_export-helper-DlAUqK2U.js";import{o as e,c as t,b as i}from"./app-BV4tH0LB.js";const s={},a=i(`<h1 id="_04-vue3常用api有哪些" tabindex="-1"><a class="header-anchor" href="#_04-vue3常用api有哪些"><span>04-vue3常用api有哪些？</span></a></h1><div class="language-markdown line-numbers-mode" data-ext="md" data-title="md"><pre class="language-markdown"><code><span class="token list punctuation">1.</span> createApp() ==》 创建一个应用实例。
 	说明：等于Vue2的==》new Vue()
 	使用场景：写插件(封装全局组件会使用)
 <span class="token list punctuation">2.</span> provide/inject ==》依赖注入

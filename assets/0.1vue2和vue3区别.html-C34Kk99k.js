@@ -1,4 +1,4 @@
-import{_ as e}from"./plugin-vue_export-helper-DlAUqK2U.js";import{o as n,c as i,b as t}from"./app-BOBtCxwd.js";const s={},d=t(`<h1 id="vue2和vue3区别" tabindex="-1"><a class="header-anchor" href="#vue2和vue3区别"><span>vue2和vue3区别？</span></a></h1><div class="language-text line-numbers-mode" data-ext="text" data-title="text"><pre class="language-text"><code>1. Vue2 和 Vue3 双向绑定 方法不同
+import{_ as e}from"./plugin-vue_export-helper-DlAUqK2U.js";import{o as n,c as i,b as t}from"./app-BV4tH0LB.js";const s={},d=t(`<h1 id="vue2和vue3区别" tabindex="-1"><a class="header-anchor" href="#vue2和vue3区别"><span>vue2和vue3区别？</span></a></h1><div class="language-text line-numbers-mode" data-ext="text" data-title="text"><pre class="language-text"><code>1. Vue2 和 Vue3 双向绑定 方法不同
 
 	Vue2 : Object.defineProperty()
 			
