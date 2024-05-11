@@ -16,7 +16,7 @@ features:
     icon: person-chalkboard
     details: 添加幻灯片页面以显示你喜欢的内容
     link: /zh/guide/layout/slides
-
+ 
   - title: 布局增强
     icon: object-group
     details: 添加路径导航、页脚、改进的导航栏、改进的页面导航等。
