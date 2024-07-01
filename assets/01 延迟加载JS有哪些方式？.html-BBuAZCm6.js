@@ -1,4 +1,4 @@
-import{_ as n}from"./plugin-vue_export-helper-DlAUqK2U.js";import{o as a,c as s,b as t}from"./app-Cus5cGmc.js";const p={},e=t(`<div class="language-text line-numbers-mode" data-ext="text" data-title="text"><pre class="language-text"><code>延迟加载：async、defer
+import{_ as n}from"./plugin-vue_export-helper-DlAUqK2U.js";import{o as a,c as s,b as t}from"./app-C0hbX5Sc.js";const p={},e=t(`<div class="language-text line-numbers-mode" data-ext="text" data-title="text"><pre class="language-text"><code>延迟加载：async、defer
 		例如：&lt;script defer type=&quot;text/javascript&quot; src=&#39;script.js&#39;&gt;&lt;/script&gt;
 		例如：&lt;script async type=&quot;text/javascript&quot; src=&#39;script.js&#39;&gt;&lt;/script&gt;
 		
